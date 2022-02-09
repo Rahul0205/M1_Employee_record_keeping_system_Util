@@ -47,13 +47,11 @@ How
 
 ## Low level requirements
  * This application will allow the user to choose their Choices:
-
  1. Add Record		
  2. List Record		
  3. Modify Record		
  4. Delete Record		
  5. Exit 
-
  * The application will ask user to enter information like  Enter name, Enter age, Enter salary.
  * It will show all details of an employees.
  * It will ask the user enter name for making changes.

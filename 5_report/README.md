@@ -1,0 +1,4 @@
+# Description
+
+The "Employee Record System Project in C" mini-project is a console programme written in the C programming language. The GCC compiler was used to compile this project in Code Blocks. You can use this console programme to perform basic Employee Record functions such as adding employee information, viewing newly added employees, and searching for employees. This programme is based on file handling in C, and it uses file-related functions such as fopen, fread, fwrite, and so on. The good news is that "Employee Record System Project" is password-protected, allowing only authorised users to access it. I've also divided the programme into distinct functions to make it easier to read. Each project function is heavily reliant on the file handling function, making it an excellent project for learning about file management.
+

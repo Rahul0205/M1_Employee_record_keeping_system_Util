@@ -51,11 +51,6 @@ How
 |ID  |description                                                       |HLR ID|status     |
 |----|------------------------------------------------------------------|------|-----------|
 |LR01| This application will allow the user to choose their Choices:    |HRO1  |IMPLEMENTED|
-     |1. Add Record		                                                |
-     | 2. List Record		                                            |
-     |3. Modify Record		                                            |
-     |4. Delete Record		                                            |
-     |5. Exit                                                           |
 |LR02|The application will ask user to enter information like  Enter name, Enter age, Enter salary|HR02|IMPLEMENTED
 |LR03|It will show all details of an employees.                         |HR03   |IMPLEMENTED|
 |HR04|It will ask the user enter name for making changes.               |HR04   |IMPLEMENTED|
